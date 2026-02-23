@@ -1,0 +1,16 @@
+{
+  "name": "ai-commerce-assistant-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.22.1",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.23.8"
+  }
+}
