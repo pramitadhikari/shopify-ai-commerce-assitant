@@ -52,16 +52,16 @@ React Admin UI
 
 ## 📦 Project Structure
 
-ai-commerce-assistant/ 
-│ 
-├── backend/ 
-│ ├── src/ 
-│ └── package.json 
-│
-├── frontend/ 
-│ ├── src/ 
-│ └── package.json 
-│ 
+ai-commerce-assistant/<br> 
+&nbsp;|<br>
+&nbsp;|── backend/<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── src/<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── package.json<br> 
+&nbsp;|<br>
+&nbsp;|── frontend/<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── src/<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── package.json<br>
+&nbsp;|<br>
 └── README.md
 
 ------------------------------------------------------------------------
